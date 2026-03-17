@@ -38,7 +38,7 @@ The pipeline integrates source code management, continuous integration, and cont
 ---
 
 ## 📸 Project Output
-
+![Project Output](BMS-APP-DOCKER.PNG)
 
 
 ---
